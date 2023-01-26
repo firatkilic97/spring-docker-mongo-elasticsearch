@@ -1,0 +1,5 @@
+org/example/Main.class
+com/haydikodlayalim/repository/KullaniciRepository.class
+com/haydikodlayalim/api/KullaniciApi.class
+com/haydikodlayalim/Application.class
+com/haydikodlayalim/entity/Kullanici.class
