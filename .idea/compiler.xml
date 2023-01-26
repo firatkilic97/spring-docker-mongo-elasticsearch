@@ -15,15 +15,9 @@
         <module name="spring-mongo-rest-api" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="spring-elastic-search" target="1.8" />
-      <module name="spring-elsatic-search" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="spring-elastic-search" options="" />
-      <module name="spring-elsatic-search" options="-parameters" />
       <module name="spring-mongo-rest-api" options="-parameters" />
     </option>
   </component>
